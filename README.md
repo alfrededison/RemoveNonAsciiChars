@@ -5,11 +5,11 @@ and remaining non-ASCII characters.
 
 Turns:
 
-    á à â ä ñ
+    á à â ä ñ đ
 
 into
 
-    a a a a n
+    a a a a n d
 
 and removes characters like:
 
